@@ -1,0 +1,1 @@
+declare module 'babel-plugin-vue2jsx'

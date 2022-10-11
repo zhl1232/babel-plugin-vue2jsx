@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-vue2jsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "play": "pnpm run --filter playground dev"
+  },
+  "keywords": [],
+  "author": "arron",
+  "license": "ISC"
+}
